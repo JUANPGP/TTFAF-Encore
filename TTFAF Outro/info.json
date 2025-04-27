@@ -1,0 +1,27 @@
+{
+    "title":"TTFAF (Outro)",
+    "artist":"DragonForce",
+    "length":189,
+    "sid":"Drum",
+    "sib":"Bass",
+    "sig":"Guitar",
+    "siv":"Vocals",
+    "diff":{
+        "pb": 3,
+        "pd": 4,
+        "vl": 3,
+        "pg": 3,
+        "gr": 3,
+        "ds": 3,
+        "ba": 3
+    },
+    "midi":"notes.mid",
+    "stems":{
+        "drums":"drums.ogg",
+        "bass":"bass.ogg",
+        "lead":"guitar.ogg",
+        "vocals":"vocals.ogg",
+        "backing":"backing.ogg"
+    },
+    "art":"cover.png"
+}
